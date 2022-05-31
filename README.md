@@ -1,5 +1,5 @@
 # HPV-genotyping
---David B. Stern--
+--David B. Stern, Ph.D.--
 
 The pipeline was developed to process Illumina sequencing data generated from CD Genomic's [HPV Capture Kit](https://www.cd-genomics.com/diseasepanel/products_70.html) and designed to run on NIAID's HPC LOCUS.
 
